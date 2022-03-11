@@ -17,3 +17,7 @@ Objectives
     - Ensure all commit messages are concise and correctly formatted
         - Subject lines are 50 characters or less
         - Use imperative mood when writing commits eg. Fix HTML boilerplate (Not "Fixed HTML boilerplate")
+
+Conclusion
+
+All objectives have been met.
