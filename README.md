@@ -1,4 +1,7 @@
 # odin-recipes
+
+Link - https://bjack0.github.io/odin-recipes/
+
 Goal
 
 - Build a basic recipe website
